@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  background-color: #1a1a2e;
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Fredoka One', cursive;
+}
+
+.retro-font {
+  font-family: 'Press Start 2P', cursive;
+}
